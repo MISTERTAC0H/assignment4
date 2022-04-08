@@ -1,2 +1,2 @@
 # assignment4
-fourth assignment for cpsc225
+This is a test project
